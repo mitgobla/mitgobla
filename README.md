@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ben</h1>
 <h3 align="center">Computer Science Graduate with a passion for all things tech.</h3>
 
-- 🔭 I’m currently working on **AiCore Data Engineering**
+- 🔭 I’ve recently completed my certification in **AiCore Data & Cloud Engineering**
 
-- 🌱 I’m currently learning **Data Engineering, Amazon Web Services**
+- 🌱 I’m currently learning **PostGIS, QGIS, Arduino**
 
 - 🔎 Looking to join an exciting team to contribute my skills
 
